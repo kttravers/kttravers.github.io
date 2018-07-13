@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Definitely Real Kate's blog
 header-img: img/home-bg.png
 email: kate+travers@flatironschool.com
 copyright_name: kttravers
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Very real.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kttravers
